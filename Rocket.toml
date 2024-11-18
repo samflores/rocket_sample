@@ -1,0 +1,5 @@
+
+[global.databases.main_db]
+url = "postgres://postgres:sekret@localhost/diesel_demo"
+pool_size = 400
+timeout = 5
